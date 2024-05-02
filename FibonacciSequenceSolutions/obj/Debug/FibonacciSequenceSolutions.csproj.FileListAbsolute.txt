@@ -1,0 +1,7 @@
+C:\Users\anton\Downloads\FibonacciSequenceSolutions\FibonacciSequenceSolutions\bin\Debug\FibonacciSequenceSolutions.exe.config
+C:\Users\anton\Downloads\FibonacciSequenceSolutions\FibonacciSequenceSolutions\bin\Debug\FibonacciSequenceSolutions.exe
+C:\Users\anton\Downloads\FibonacciSequenceSolutions\FibonacciSequenceSolutions\bin\Debug\FibonacciSequenceSolutions.pdb
+C:\Users\anton\Downloads\FibonacciSequenceSolutions\FibonacciSequenceSolutions\obj\Debug\FibonacciSequenceSolutions.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\FibonacciSequenceSolutions\FibonacciSequenceSolutions\obj\Debug\FibonacciSequenceSolutions.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\FibonacciSequenceSolutions\FibonacciSequenceSolutions\obj\Debug\FibonacciSequenceSolutions.exe
+C:\Users\anton\Downloads\FibonacciSequenceSolutions\FibonacciSequenceSolutions\obj\Debug\FibonacciSequenceSolutions.pdb
