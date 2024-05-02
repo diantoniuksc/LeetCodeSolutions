@@ -1,0 +1,7 @@
+C:\Users\anton\Downloads\LeetCodeSolutions\HouseRobber\bin\Debug\HouseRobber.exe.config
+C:\Users\anton\Downloads\LeetCodeSolutions\HouseRobber\bin\Debug\HouseRobber.exe
+C:\Users\anton\Downloads\LeetCodeSolutions\HouseRobber\bin\Debug\HouseRobber.pdb
+C:\Users\anton\Downloads\LeetCodeSolutions\HouseRobber\obj\Debug\HouseRobber.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\LeetCodeSolutions\HouseRobber\obj\Debug\HouseRobber.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\LeetCodeSolutions\HouseRobber\obj\Debug\HouseRobber.exe
+C:\Users\anton\Downloads\LeetCodeSolutions\HouseRobber\obj\Debug\HouseRobber.pdb

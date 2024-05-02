@@ -1,0 +1,7 @@
+C:\Users\anton\Downloads\LeetCodeSolutions\HanoiTower\bin\Debug\HanoiTower.exe.config
+C:\Users\anton\Downloads\LeetCodeSolutions\HanoiTower\bin\Debug\HanoiTower.exe
+C:\Users\anton\Downloads\LeetCodeSolutions\HanoiTower\bin\Debug\HanoiTower.pdb
+C:\Users\anton\Downloads\LeetCodeSolutions\HanoiTower\obj\Debug\HanoiTower.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\LeetCodeSolutions\HanoiTower\obj\Debug\HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\LeetCodeSolutions\HanoiTower\obj\Debug\HanoiTower.exe
+C:\Users\anton\Downloads\LeetCodeSolutions\HanoiTower\obj\Debug\HanoiTower.pdb
