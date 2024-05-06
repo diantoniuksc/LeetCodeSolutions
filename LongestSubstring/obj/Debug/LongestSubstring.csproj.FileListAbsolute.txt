@@ -1,0 +1,7 @@
+C:\Users\anton\Downloads\LeetCodeSolutions\LongestSubstring\bin\Debug\LongestSubstring.exe.config
+C:\Users\anton\Downloads\LeetCodeSolutions\LongestSubstring\bin\Debug\LongestSubstring.exe
+C:\Users\anton\Downloads\LeetCodeSolutions\LongestSubstring\bin\Debug\LongestSubstring.pdb
+C:\Users\anton\Downloads\LeetCodeSolutions\LongestSubstring\obj\Debug\LongestSubstring.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\LeetCodeSolutions\LongestSubstring\obj\Debug\LongestSubstring.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\LeetCodeSolutions\LongestSubstring\obj\Debug\LongestSubstring.exe
+C:\Users\anton\Downloads\LeetCodeSolutions\LongestSubstring\obj\Debug\LongestSubstring.pdb
