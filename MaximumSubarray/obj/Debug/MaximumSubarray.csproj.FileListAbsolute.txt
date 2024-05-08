@@ -1,0 +1,7 @@
+C:\Users\anton\source\repos\LeetCodeSolutions\LeetCodeSolutions\MaximumSubarray\bin\Debug\MaximumSubarray.exe.config
+C:\Users\anton\source\repos\LeetCodeSolutions\LeetCodeSolutions\MaximumSubarray\bin\Debug\MaximumSubarray.exe
+C:\Users\anton\source\repos\LeetCodeSolutions\LeetCodeSolutions\MaximumSubarray\bin\Debug\MaximumSubarray.pdb
+C:\Users\anton\source\repos\LeetCodeSolutions\LeetCodeSolutions\MaximumSubarray\obj\Debug\MaximumSubarray.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\LeetCodeSolutions\LeetCodeSolutions\MaximumSubarray\obj\Debug\MaximumSubarray.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\LeetCodeSolutions\LeetCodeSolutions\MaximumSubarray\obj\Debug\MaximumSubarray.exe
+C:\Users\anton\source\repos\LeetCodeSolutions\LeetCodeSolutions\MaximumSubarray\obj\Debug\MaximumSubarray.pdb
