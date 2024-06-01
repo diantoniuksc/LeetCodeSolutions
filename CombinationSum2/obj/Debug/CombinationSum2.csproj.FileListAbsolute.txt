@@ -1,0 +1,7 @@
+C:\Users\Dina\LIT\C#\LeetContest27042024\CombinationSum2\obj\Debug\CombinationSum2.csproj.AssemblyReference.cache
+C:\Users\Dina\LIT\C#\LeetContest27042024\CombinationSum2\obj\Debug\CombinationSum2.csproj.CoreCompileInputs.cache
+C:\Users\Dina\LIT\C#\LeetContest27042024\CombinationSum2\bin\Debug\CombinationSum2.exe.config
+C:\Users\Dina\LIT\C#\LeetContest27042024\CombinationSum2\bin\Debug\CombinationSum2.exe
+C:\Users\Dina\LIT\C#\LeetContest27042024\CombinationSum2\bin\Debug\CombinationSum2.pdb
+C:\Users\Dina\LIT\C#\LeetContest27042024\CombinationSum2\obj\Debug\CombinationSum2.exe
+C:\Users\Dina\LIT\C#\LeetContest27042024\CombinationSum2\obj\Debug\CombinationSum2.pdb
