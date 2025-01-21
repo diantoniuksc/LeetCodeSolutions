@@ -1,7 +1,0 @@
-C:\Users\Dina\LIT\C#\LeetContest27042024\LinkedListCycle2\bin\Debug\LinkedListCycle2.exe.config
-C:\Users\Dina\LIT\C#\LeetContest27042024\LinkedListCycle2\bin\Debug\LinkedListCycle2.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\LinkedListCycle2\bin\Debug\LinkedListCycle2.pdb
-C:\Users\Dina\LIT\C#\LeetContest27042024\LinkedListCycle2\obj\Debug\LinkedListCycle2.csproj.AssemblyReference.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\LinkedListCycle2\obj\Debug\LinkedListCycle2.csproj.CoreCompileInputs.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\LinkedListCycle2\obj\Debug\LinkedListCycle2.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\LinkedListCycle2\obj\Debug\LinkedListCycle2.pdb

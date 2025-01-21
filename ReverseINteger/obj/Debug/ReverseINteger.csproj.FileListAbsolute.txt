@@ -1,7 +1,0 @@
-C:\Users\Dina\LIT\C#\LeetContest27042024\ReverseINteger\bin\Debug\ReverseINteger.exe.config
-C:\Users\Dina\LIT\C#\LeetContest27042024\ReverseINteger\bin\Debug\ReverseINteger.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\ReverseINteger\bin\Debug\ReverseINteger.pdb
-C:\Users\Dina\LIT\C#\LeetContest27042024\ReverseINteger\obj\Debug\ReverseINteger.csproj.AssemblyReference.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\ReverseINteger\obj\Debug\ReverseINteger.csproj.CoreCompileInputs.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\ReverseINteger\obj\Debug\ReverseINteger.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\ReverseINteger\obj\Debug\ReverseINteger.pdb

@@ -1,7 +1,0 @@
-C:\Users\Dina\LIT\C#\LeetContest27042024\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe.config
-C:\Users\Dina\LIT\C#\LeetContest27042024\AddTwoNumbers\bin\Debug\AddTwoNumbers.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\AddTwoNumbers\bin\Debug\AddTwoNumbers.pdb
-C:\Users\Dina\LIT\C#\LeetContest27042024\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.AssemblyReference.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\AddTwoNumbers\obj\Debug\AddTwoNumbers.csproj.CoreCompileInputs.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\AddTwoNumbers\obj\Debug\AddTwoNumbers.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\AddTwoNumbers\obj\Debug\AddTwoNumbers.pdb

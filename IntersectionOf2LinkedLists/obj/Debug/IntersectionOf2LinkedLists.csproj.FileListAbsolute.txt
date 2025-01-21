@@ -1,7 +1,0 @@
-C:\Users\Dina\LIT\C#\LeetContest27042024\IntersectionOf2LinkedLists\bin\Debug\IntersectionOf2LinkedLists.exe.config
-C:\Users\Dina\LIT\C#\LeetContest27042024\IntersectionOf2LinkedLists\bin\Debug\IntersectionOf2LinkedLists.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\IntersectionOf2LinkedLists\bin\Debug\IntersectionOf2LinkedLists.pdb
-C:\Users\Dina\LIT\C#\LeetContest27042024\IntersectionOf2LinkedLists\obj\Debug\IntersectionOf2LinkedLists.csproj.AssemblyReference.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\IntersectionOf2LinkedLists\obj\Debug\IntersectionOf2LinkedLists.csproj.CoreCompileInputs.cache
-C:\Users\Dina\LIT\C#\LeetContest27042024\IntersectionOf2LinkedLists\obj\Debug\IntersectionOf2LinkedLists.exe
-C:\Users\Dina\LIT\C#\LeetContest27042024\IntersectionOf2LinkedLists\obj\Debug\IntersectionOf2LinkedLists.pdb

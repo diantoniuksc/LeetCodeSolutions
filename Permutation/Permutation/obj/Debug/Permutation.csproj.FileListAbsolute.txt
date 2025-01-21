@@ -1,7 +1,0 @@
-C:\Users\anton\Downloads\Permutation\Permutation\obj\Debug\Permutation.csproj.AssemblyReference.cache
-C:\Users\anton\Downloads\Permutation\Permutation\obj\Debug\Permutation.csproj.CoreCompileInputs.cache
-C:\Users\anton\Downloads\Permutation\Permutation\bin\Debug\Permutation.exe.config
-C:\Users\anton\Downloads\Permutation\Permutation\bin\Debug\Permutation.exe
-C:\Users\anton\Downloads\Permutation\Permutation\bin\Debug\Permutation.pdb
-C:\Users\anton\Downloads\Permutation\Permutation\obj\Debug\Permutation.exe
-C:\Users\anton\Downloads\Permutation\Permutation\obj\Debug\Permutation.pdb
